@@ -1,0 +1,14 @@
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\bin\Debug\net7.0\Task1.exe
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\bin\Debug\net7.0\Task1.deps.json
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\bin\Debug\net7.0\Task1.dll
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\bin\Debug\net7.0\Task1.pdb
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\Task1.dll
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\refint\Task1.dll
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\Task1.pdb
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+E:\GeekBrains Git\01_csharp\Lesson1\Task1\obj\Debug\net7.0\ref\Task1.dll
